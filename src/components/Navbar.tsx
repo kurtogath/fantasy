@@ -5,7 +5,7 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/20/solid";
 import Link from "next/link";
 import React, { useState } from "react";
 
-const Navbar: React.FC = () => {
+export const Navbar: React.FC = () => {
     const [isOpen, setIsOpen] = useState(false);
 
     const renderNavLinks = () => (
@@ -84,5 +84,3 @@ const Navbar: React.FC = () => {
         </nav>
     );
 };
-
-export default Navbar;

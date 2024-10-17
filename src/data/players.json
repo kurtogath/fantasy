@@ -1,0 +1,183 @@
+[
+    {
+        "id": "1",
+        "name": "Andras Tanoh Dez",
+        "position": "Base / Escolta",
+        "team": "Hestia Menorca Basquet",
+        "height": 190,
+        "weight": 85,
+        "age": 22,
+        "birthday": "29/03/2002",
+        "dorsal": "2",
+        "birthplace": "Budapest, Hungria",
+        "flag": "HU"
+    },
+
+    {
+        "id": "2",
+        "name": "Raul Timoner",
+        "position": "Base",
+        "team": "Hestia Menorca Basquet",
+        "height": 185,
+        "weight": 0,
+        "age": 27,
+        "birthday": "31/03/1997",
+        "dorsal": "3",
+        "birthplace": "Alayor, España",
+        "flag": "ES"
+    },
+
+    {
+        "id": "3",
+        "name": "Pavlin Ivanov",
+        "position": "Escolta",
+        "team": "Hestia Menorca Basquet",
+        "height": 196,
+        "weight": 85,
+        "age": 31,
+        "birthday": "28/03/1993",
+        "dorsal": "4",
+        "birthplace": "Yambol, Bulgaria",
+        "flag": "BG"
+    },
+
+    {
+        "id": "4",
+        "name": "David Gomez",
+        "position": "A-Pivot",
+        "team": "Hestia Menorca Basquet",
+        "height": 205,
+        "weight": 98,
+        "age": 31,
+        "birthday": "11/02/2004",
+        "dorsal": "6",
+        "birthplace": "Alcala de guadaira, España",
+        "flag": "ES"
+    },
+
+    {
+        "id": "5",
+        "name": "Pol Figueras",
+        "position": "Base",
+        "team": "Hestia Menorca Basquet",
+        "height": 186,
+        "weight": 80,
+        "age": 26,
+        "birthday": "21/03/1998",
+        "dorsal": "7",
+        "birthplace": "Selva del camp, España",
+        "flag": "ES"
+    },
+
+    {
+        "id": "6",
+        "name": "Pablo Gonzalez Longarela",
+        "position": "Escolta",
+        "team": "Hestia Menorca Basquet",
+        "height": 191,
+        "weight": 80,
+        "age": 26,
+        "birthday": "09/08/1998",
+        "dorsal": "8",
+        "birthplace": "Madrid, España",
+        "flag": "ES"
+    },
+
+    {
+        "id": "7",
+        "name": "Golden Dike",
+        "position": "Pivot",
+        "team": "Hestia Menorca Basquet",
+        "height": 208,
+        "weight": 113,
+        "age": 23,
+        "birthday": "15/05/2001",
+        "dorsal": "10",
+        "birthplace": "Malaga, España",
+        "flag": "ES"
+    },
+
+    {
+        "id": "8",
+        "name": "Diego Alderete",
+        "position": "Alero",
+        "team": "Hestia Menorca Basquet",
+        "height": 202,
+        "weight": 0,
+        "age": 24,
+        "birthday": "22/04/2000",
+        "dorsal": "12",
+        "birthplace": "Madrid, España",
+        "flag": "ES"
+    },
+
+    {
+        "id": "9",
+        "name": "Wilhelm Falk",
+        "position": "Alero",
+        "team": "Hestia Menorca Basquet",
+        "height": 203,
+        "weight": 100,
+        "age": 21,
+        "birthday": "25/06/2003",
+        "dorsal": "13",
+        "birthplace": "Sunnersberg, Suecia",
+        "flag": "SE"
+    },
+
+    {
+        "id": "10",
+        "name": "Pol Molins",
+        "position": "Base",
+        "team": "Hestia Menorca Basquet",
+        "height": 196,
+        "weight": 0,
+        "age": 25,
+        "birthday": "04/02/1999",
+        "dorsal": "15",
+        "birthplace": "El Masnou, España",
+        "flag": "ES"
+    },
+
+    {
+        "id": "11",
+        "name": "Emil Stoilov",
+        "position": "Pivot",
+        "team": "Hestia Menorca Basquet",
+        "height": 208,
+        "weight": 103,
+        "age": 22,
+        "birthday": "07/02/2002",
+        "dorsal": "17",
+        "birthplace": "Sofia, Bulgaria",
+        "flag": "BG"
+    },
+
+    {
+        "id": "12",
+        "name": "Marko Luković",
+        "position": "A-Pivot",
+        "team": "Hestia Menorca Basquet",
+        "height": 206,
+        "weight": 91,
+        "age": 32,
+        "birthday": "26/05/1992",
+        "dorsal": "33",
+        "birthplace": "Belgrado, Serbia",
+        "flag": "RS"
+    },
+
+    {
+        "id": "13",
+        "name": "Victor Arteaga",
+        "position": "Pivot",
+        "team": "Hestia Menorca Basquet",
+        "height": 212,
+        "weight": 109,
+        "age": 32,
+        "birthday": "07/07/1992",
+        "dorsal": "77",
+        "birthplace": "San Clemente, España",
+        "flag": "ES"
+    }
+]

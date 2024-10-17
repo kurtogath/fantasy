@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
-import Navbar from "../src/components/Navbar";
+import { Navbar } from "../src/components";
 import "./globals.css";
 
 const geistSans = localFont({
@@ -31,7 +31,9 @@ export default function RootLayout({
             >
                 <section>
                     <Navbar />
-                    {children}
+                    <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 sm:py-4 lg:px-8 lg:py-6">
+                        <div className="flex h-16 items-center">{children}</div>
+                    </div>
                 </section>
             </body>
         </html>

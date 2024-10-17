@@ -1,10 +1,24 @@
-export default function Teans({ params }: { params: { id: string } }) {
+import emojiFlags from "emoji-flags";
+import { PlayerDescription } from "../../../src/components/PlayerDescription";
+import playersData from "../../../src/data/players.json";
+import { Player } from "../../../src/types";
+
+export default function Teams({ params }: { params: { id: string } }) {
     const { id } = params;
+    const player: Player | undefined = playersData.find(
+        (p: Player) => p.id === id,
+    );
+
+    if (!player) {
+        return <div>Jugador no encontrado</div>;
+    }
+
+    const flag = emojiFlags.countryCode(player.flag)?.emoji || "";
 
     return (
-        <div className="grid min-h-screen grid-rows-[20px_1fr_20px] items-center justify-items-center gap-16 p-8 pb-20 font-[family-name:var(--font-geist-sans)] sm:p-20">
-            <main className="row-start-2 flex flex-col items-center gap-8 sm:items-start">
-                <p>Jugador numero {id}</p>
+        <div className="">
+            <main className="">
+                <PlayerDescription player={player} flag={flag} />
             </main>
         </div>
     );
