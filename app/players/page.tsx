@@ -1,4 +1,4 @@
-import { PlayerListData } from "@/src/components/PlayerListData";
+import { PlayerListData } from "@/src/components";
 import { Player } from "@/src/types";
 import playersData from "../../src/data/players.json";
 
