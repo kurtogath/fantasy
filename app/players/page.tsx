@@ -1,9 +1,16 @@
+import { PlayerListData } from "@/src/components/PlayerListData";
+import { Player } from "@/src/types";
+import playersData from "../../src/data/players.json";
+
 export default function Players() {
     return (
-        <div className="grid min-h-screen grid-rows-[20px_1fr_20px] items-center justify-items-center gap-16 p-8 pb-20 font-[family-name:var(--font-geist-sans)] sm:p-20">
-            <main className="row-start-2 flex flex-col items-center gap-8 sm:items-start">
-                <p>PLAYERS</p>
-            </main>
+        <div>
+            <p>PLAYERS</p>
+            <div className="grid grid-cols-2 justify-between gap-4 lg:grid-cols-4">
+                {playersData?.map((player: Player) => (
+                    <PlayerListData player={player} key={player.id} />
+                ))}
+            </div>
         </div>
     );
 }

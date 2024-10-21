@@ -10,4 +10,5 @@ export interface Player {
     dorsal: string;
     birthplace: string;
     flag: string;
+    img: string;
   }

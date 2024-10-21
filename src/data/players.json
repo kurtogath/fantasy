@@ -10,7 +10,8 @@
         "birthday": "29/03/2002",
         "dorsal": "2",
         "birthplace": "Budapest, Hungria",
-        "flag": "HU"
+        "flag": "HU",
+        "img": "/img/teams/menorca/players/2_AndrasTanohDez_2.jpg"
     },
 
     {
@@ -24,7 +25,8 @@
         "birthday": "31/03/1997",
         "dorsal": "3",
         "birthplace": "Alayor, España",
-        "flag": "ES"
+        "flag": "ES",
+        "img": "/img/teams/menorca/players/3_RaulTimoner_1.jpg"
     },
 
     {
@@ -38,7 +40,8 @@
         "birthday": "28/03/1993",
         "dorsal": "4",
         "birthplace": "Yambol, Bulgaria",
-        "flag": "BG"
+        "flag": "BG",
+        "img": "/img/teams/menorca/players/4_PavlinIvanov_3.jpg"
     },
 
     {
@@ -52,7 +55,8 @@
         "birthday": "11/02/2004",
         "dorsal": "6",
         "birthplace": "Alcala de guadaira, España",
-        "flag": "ES"
+        "flag": "ES",
+        "img": "/img/teams/menorca/players/6_DavidGomez_3.jpg"
     },
 
     {
@@ -66,7 +70,8 @@
         "birthday": "21/03/1998",
         "dorsal": "7",
         "birthplace": "Selva del camp, España",
-        "flag": "ES"
+        "flag": "ES",
+        "img": "/img/teams/menorca/players/7_PolFigueras_2.jpg"
     },
 
     {
@@ -80,7 +85,8 @@
         "birthday": "09/08/1998",
         "dorsal": "8",
         "birthplace": "Madrid, España",
-        "flag": "ES"
+        "flag": "ES",
+        "img": "/img/teams/menorca/players/8_PabloLongareda_3.jpg"
     },
 
     {
@@ -94,7 +100,8 @@
         "birthday": "15/05/2001",
         "dorsal": "10",
         "birthplace": "Malaga, España",
-        "flag": "ES"
+        "flag": "ES",
+        "img": "/img/teams/menorca/players/10_GoldenDike_1.jpg"
     },
 
     {
@@ -108,7 +115,8 @@
         "birthday": "22/04/2000",
         "dorsal": "12",
         "birthplace": "Madrid, España",
-        "flag": "ES"
+        "flag": "ES",
+        "img": "/img/teams/menorca/players/12_DiegoAlderete_2.jpg"
     },
 
     {
@@ -122,7 +130,8 @@
         "birthday": "25/06/2003",
         "dorsal": "13",
         "birthplace": "Sunnersberg, Suecia",
-        "flag": "SE"
+        "flag": "SE",
+        "img": "/img/teams/menorca/players/13_WilhelmFalk_1.jpg"
     },
 
     {
@@ -136,7 +145,8 @@
         "birthday": "04/02/1999",
         "dorsal": "15",
         "birthplace": "El Masnou, España",
-        "flag": "ES"
+        "flag": "ES",
+        "img": "/img/teams/menorca/players/15_PolMolins_1.jpg"
     },
 
     {
@@ -150,7 +160,8 @@
         "birthday": "07/02/2002",
         "dorsal": "17",
         "birthplace": "Sofia, Bulgaria",
-        "flag": "BG"
+        "flag": "BG",
+        "img": "/img/teams/menorca/players/17_EmilStoilov_1.jpg"
     },
 
     {
@@ -164,7 +175,8 @@
         "birthday": "26/05/1992",
         "dorsal": "33",
         "birthplace": "Belgrado, Serbia",
-        "flag": "RS"
+        "flag": "RS",
+        "img": "/img/teams/menorca/players/33_MarkoLukovic_2.jpg"
     },
 
     {
@@ -178,6 +190,7 @@
         "birthday": "07/07/1992",
         "dorsal": "77",
         "birthplace": "San Clemente, España",
-        "flag": "ES"
+        "flag": "ES",
+        "img": "/img/teams/menorca/players/77_VictorArteaga_2.jpg"
     }
 ]

@@ -16,10 +16,8 @@ export default function Teams({ params }: { params: { id: string } }) {
     const flag = emojiFlags.countryCode(player.flag)?.emoji || "";
 
     return (
-        <div className="">
-            <main className="">
-                <PlayerDescription player={player} flag={flag} />
-            </main>
+        <div>
+            <PlayerDescription player={player} flag={flag} />
         </div>
     );
 }
